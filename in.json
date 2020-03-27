@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "name": "pr1",
+      "coordinates": {
+        "x": 1.0,
+        "y": 1
+      },
+      "price": 2.0,
+      "partNumber": "pn1",
+      "manufactureCost": 300,
+      "unitOfMeasure": "GRAMS",
+      "manufacturer": {
+        "name": "ORG1",
+        "annualTurnover": 1000,
+        "organizationType": "PUBLIC"
+      }
+    },
+    {
+      "name": "pr2",
+      "coordinates": {
+        "x": 2.0,
+        "y": 2
+      },
+      "price": 1,
+      "partNumber": "pn2",
+      "manufactureCost": 300,
+      "unitOfMeasure": "METERS",
+      "manufacturer": {
+        "name": "ORG2",
+        "annualTurnover": 2000,
+        "organizationType": "TRUST"
+      }
+    },
+    {
+      "name": "pr3",
+      "coordinates": {
+        "x": 3.0,
+        "y": 3
+      },
+      "price": 3.0,
+      "partNumber": "pn3",
+      "manufactureCost": 300,
+      "unitOfMeasure": "MILLIGRAMS",
+      "manufacturer": {
+        "name": "ORG3",
+        "annualTurnover": 3000,
+        "organizationType": "GOVERNMENT"
+      }
+    }
+  ]
+}
